@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/156632",
-      "destination": "https://otieu.com/4/9864510",
+      "source": "/old-page",
+      "destination": "/new-page",
       "permanent": true
     }
   ]
